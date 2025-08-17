@@ -6,6 +6,6 @@ int main() {
     int c = add(a, b);
     // change 5
     // new_branch conflict
-    // new_branch conflict
+    // new_main conflict
     return 0;
 }
